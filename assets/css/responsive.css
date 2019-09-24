@@ -1,0 +1,397 @@
+@media only screen and (min-width: 992px) and (max-width: 5000px) {
+
+	
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+.slider-wrapper {
+	width: 100%;
+}
+.main-menu ul li a {
+padding: 40px 8px;
+}
+.single-event-desc {
+	margin-top: 20px;
+}
+.contact-social-profile {
+	padding: 95px 0;
+}
+
+}
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+body {
+ line-height: 1.4;
+}
+p {
+  font-size: 14px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-bottom: 15px;
+    padding: 0;
+	line-height: 1.5;
+}
+.pt-130{padding-top:100px}
+.pt-100{padding-top:70px}
+.pb-100{padding-bottom:70px}
+.pb-70{padding-bottom:50px}
+.pt-80{padding-top:60px}
+.pb-80{padding-bottom:60px}
+.pt-50{padding-top: 40px;}
+.pb-50{padding-bottom: 40px;}
+h1{
+	font-size: 28px;
+}
+h2 {
+font-size: 24px;
+}
+h3 {
+font-size: 22px;
+}
+h4 {
+font-size: 16px;
+}
+.pt-100{padding-top:80px}
+.pb-100{padding-bottom:80px}
+.pb-80{padding-bottom:50px}
+.pb-70{padding-bottom:40px}
+
+.main-menu ul li a {
+	padding: 40px 5px;
+	font-size: 14px;
+}
+.main-menu ul li:hover ul {	
+top:100px; 
+}
+.slider-text h1 {
+font-size: 30px;
+}
+.slider-text li a {
+padding: 12px 22px;
+}
+.about-desc {
+	padding-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 60px;
+}
+.about-desc-img img {
+	width: 100%;
+}
+.simple-btn {
+padding: 12px 22px;
+}
+.counting_sl {
+	margin: 20px 0;
+}
+.all-latest-blog {
+	margin-bottom: 60px;
+}
+.footer-widget:nth-child(2n+1) {
+	clear: both;
+}
+.promo-sec-title {
+	margin-bottom: 40px;
+}
+.page-heading h1 {
+	font-size: 18px;
+	padding: 12px 30px;
+}
+.about-page-sec .vedio-button {
+	width: 100px;
+	height: 100px;
+	line-height: 110px;
+}
+.single-event-desc {
+	margin-top: 30px;
+}
+.sidebar {
+	margin-top: 40px;
+}
+.contact-social-profile {
+	padding: 36px 0;
+}
+.contact-social-profile li {
+	display: inline-block;
+}
+.contact-social-profile li a i {
+	color: #af9a7d;
+	font-size: 32px;
+}
+.contact-social-profile li {
+	margin-bottom: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.error-sub-title {
+	font-size: 32px;
+}
+.error-title {
+	font-size: 230px;
+}
+.promo-inner{margin-bottom:30px;}
+.all-course.owl-carousel.owl-theme .owl-dots {
+    padding-bottom: 0px;
+	}
+	
+}
+
+
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+.main-menu ul li a {
+	padding: 40px 5px;
+	font-size: 14px;
+}
+.main-menu ul li:hover ul {	
+top:100px; 
+}
+body {
+ line-height: 1.4;
+}
+p {
+  font-size: 14px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-bottom: 20px;
+    padding: 0;
+	line-height: 1.5;
+}
+.pt-130{padding-top:70px}
+.pb-100{padding-bottom:70px}
+.pb-70{padding-bottom:50px}
+.pt-80{padding-top:60px}
+.pb-80{padding-bottom:60px}
+.pt-50{padding-top: 40px;}
+.pb-50{padding-bottom: 40px;}
+
+.slider-wrapper {
+	width: 100%;
+	padding: 0px 60px;
+}
+.slider-text {
+	width: 100%;
+}
+.promo-inner{margin-bottom:30px;}
+.all-course.owl-carousel.owl-theme .owl-dots {
+    padding-bottom: 0px;
+	}
+.slider-text h1 {
+font-size: 30px;
+}
+.slider-text li a {
+padding: 12px 22px;
+}
+.single-event-desc {
+	margin-top: 30px;
+}
+.about-desc {
+	padding-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 60px;
+}
+.about-desc-img img {
+	width: 100%;
+}
+.simple-btn {
+padding: 12px 22px;
+}
+.counting_sl {
+	margin: 20px 0;
+}
+.all-latest-blog {
+	margin-bottom: 60px;
+}
+.footer-widget:nth-child(2n+1) {
+	clear: both;
+}
+.slider-text h1 {
+font-size: 30px;
+}
+.slider-text li a {
+padding: 12px 22px;
+}
+.about-desc {
+	padding-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 60px;
+}
+.about-desc-img img {
+	width: 100%;
+}
+.simple-btn {
+padding: 12px 22px;
+}
+.counting_sl {
+	margin: 20px 0;
+}
+.all-latest-blog {
+	margin-bottom: 60px;
+}
+.footer-widget:nth-child(2n+1) {
+	clear: both;
+}
+.counting_sl h4 {
+	font-size: 18px;
+}
+.video-inner {
+	margin-top: 60px;
+}
+.vedio-button {
+	width: 100px;
+	height: 100px;
+	margin: inherit;
+	line-height: 114px;
+}
+.vedio-button a i {
+	font-size: 44px;
+}
+.video-inner h4 {
+text-align: left;
+}
+.logo {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.header-info {
+	text-align: center;
+	margin-top: 16px;
+	width:100%;
+}
+.header-info li {
+	padding-right: 04px;
+}
+.translate-language {
+	top: -57px;
+}
+.promo-sec-title {
+	margin-bottom: 40px;
+}
+.page-heading h1 {
+	font-size: 18px;
+	padding: 12px 30px;
+}
+.sidebar {
+	margin-top: 40px;
+}
+.contact-social-profile {
+	padding: 36px 0;
+}
+.contact-social-profile li {
+	display: inline-block;
+}
+.contact-social-profile li a i {
+	color: #af9a7d;
+	font-size: 32px;
+}
+.contact-social-profile li {
+	margin-bottom: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.contact-form-sec {
+	padding-left: 30px;
+}
+.contact-form-sec::before {
+left: 0;
+}
+.error-sub-title {
+	font-size: 24px;
+}
+.error-title {
+	font-size: 120px;
+}
+.shorttitle {
+	background: #af9a7d none repeat scroll 0 0;
+	display: block;
+	margin-bottom: 30px;
+	padding: 20px;
+}
+.shorttitle h3 {
+	margin-bottom: 0px;
+	font-size: 18px;
+	color: #fff;
+}
+.simplefilter li {
+display: inline-block;
+width: 100%;
+margin-bottom: 10px;
+}
+.navbarsort {
+display:block;
+}
+.navbarsort .navbar-toggle {
+	background: #222 none repeat scroll 0 0;
+	margin-top: 15px;
+	border-radius: 0px;
+}
+.navbarsort .navbar-toggle .icon-bar {
+	background: #fff;
+}
+
+}
+@media only screen and (min-width: 0px) and (max-width: 320px) {
+.header-info li {
+    font-size: 12px;
+}
+
+}
+
+@media only screen and (min-width: 0px) and (max-width: 492px) {
+.slider-text h1 {
+	font-size: 28px;
+	line-height: 40px;
+}
+.slider-text ul{margin-top:40px;}
+.commentar-sec img {
+	float: inherit;
+	margin-bottom: 20px;
+}
+.post-commenter-author .media-left {
+	display: inherit;
+	width: 100%;
+	float: inherit;
+}
+
+}
+
+@media only screen and (min-width: 0px) and (max-width: 420px) {
+
+
+}
+
+@media only screen and (min-width: 0px) and (max-width: 550px) {
+
+
+}
+
+@media only screen and (min-width: 0px) and (max-width: 500px) {
+
+
+}
+
+@media only screen and (min-width: 0px) and (max-width: 390px) {
+.sec-title h1 {
+  font-size:28px;
+}
+
+
+}
+@media only screen and (min-width: 0px) and (max-width: 350px) {
+.header-info li {
+	padding-right: 0px;
+}
+}
